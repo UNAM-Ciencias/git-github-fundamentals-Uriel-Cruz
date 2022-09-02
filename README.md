@@ -106,8 +106,7 @@ Read more about forking [here](https://docs.github.com/en/github/creating-clonin
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
 * Let us know what you liked or didn’t like about the content of this course. What would you like to see more of? What would be interesting or helpful to your learning journey? Take our survey. 
 
-Este curso me gusto bastante, te puede dar una muy buena introducción a las cosas que puedes hacer en Github, no se si exista una versión en español, 
-sería una buena manera de conectarse con la comunidad de LATAM.
+Este curso me gusto bastante, te puede dar una muy buena introducción a las cosas que puedes hacer en Github, a mi parecer una versión en español ayudaria muchisimo a la comunidad de LATAM, aunque realemente eso no es un problema en estos dias, sin duda le recomendaría este curso si alguien no sabe nada de git o github.
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
